@@ -1,1 +1,1 @@
-# Repositório para o curso de estatística de probabilidade do PPGI 2019_1
+### Repositório para o curso de estatística e probabilidade - PPGI - 2019_1
